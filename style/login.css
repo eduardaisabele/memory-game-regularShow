@@ -1,25 +1,27 @@
+
+
 .login-form {
     align-items: center;
     display: flex;
     flex-direction: column;
-    height: 100vh;
     justify-content: center;
+    height: 100vh;
 }
 
 .login__header {
     display: flex;
     align-items: center;
     flex-direction: column;
-    justify-content: center;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .login__header img {
-    width: 250px;
+    width: 320px;
 }
 
 .login__header h1 {
-    color: #333;
+    padding: 2px;
+    color: #e0dddd;
     font-size: 1.5rem;
 }
 
@@ -36,8 +38,8 @@
 }
 
 .login__button {
-    background-color: #00b5cc;
-    border: 3px solid #b2df28;
+    background-color: #57A0E4;
+    border: 3px solid #CAA74D;
     border-radius: 8px;
     color: #fff;
     cursor: pointer;
