@@ -1,5 +1,3 @@
-
-
 .login-form {
     align-items: center;
     display: flex;
@@ -19,27 +17,29 @@
     width: 320px;
 }
 
-.login__header h1 {
+.login__header p {
+    font-family: "Comedy Show";
     padding: 2px;
-    color: #e0dddd;
-    font-size: 1.5rem;
+    font-size: 3rem;
+    font-weight: 600;
 }
 
 .login__input {
     border: 2px solid #333;
     border-radius: 8px;
-    color: #333;
+    color: #232323;
     font-size: 1em;
     margin-bottom: 15px;
     max-width: 300px;
     outline: none;
     padding: 15px;
     width: 100%;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .login__button {
     background-color: #57A0E4;
-    border: 3px solid #CAA74D;
+    border: 2px solid #CAA74D;
     border-radius: 8px;
     color: #fff;
     cursor: pointer;
@@ -47,6 +47,7 @@
     max-width: 300px;
     padding: 15px;
     width: 100%;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .login__button:disabled {
