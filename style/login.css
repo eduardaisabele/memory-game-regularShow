@@ -7,8 +7,8 @@
 }
 
 .login__header {
-    display: flex;
     align-items: center;
+    display: flex;
     flex-direction: column;
     margin-bottom: 30px;
 }
@@ -19,22 +19,22 @@
 
 .login__header p {
     font-family: "Comedy Show";
-    padding: 2px;
     font-size: 3rem;
     font-weight: 600;
+    padding: 2px;
 }
 
 .login__input {
     border: 2px solid #333;
     border-radius: 8px;
     color: #232323;
+    font-family: 'Press Start 2P', cursive;
     font-size: 1em;
     margin-bottom: 15px;
     max-width: 300px;
     outline: none;
     padding: 15px;
     width: 100%;
-    font-family: 'Press Start 2P', cursive;
 }
 
 .login__button {
@@ -44,10 +44,12 @@
     color: #fff;
     cursor: pointer;
     font-size: 1em;
+    font-family: 'Press Start 2P', cursive;
+    letter-spacing: .5px;
     max-width: 300px;
     padding: 15px;
+    transition: .5s ease;
     width: 100%;
-    font-family: 'Press Start 2P', cursive;
 }
 
 .login__button:disabled {
@@ -55,4 +57,9 @@
     border: 2px solid #969595;
     color: #aaa;
     cursor: auto;
+}
+
+.login__button:hover {
+    letter-spacing: 2px;
+    transition: .5s ease;
 }

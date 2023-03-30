@@ -10,7 +10,6 @@ main {
     padding: 20px 20px 50px;
 }
 
-
 header {
     display: flex;
     align-items: center;
@@ -62,6 +61,7 @@ header {
 .back {
     background-image: url('../img/back.png');
     backface-visibility: hidden;
+    cursor: pointer;
 }
 
 .reveal-card {
