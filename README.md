@@ -1,4 +1,5 @@
 # Memory Game
+<p>🚀 Jogo da memoria</p>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardaisabele/memory-game-regularShow?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardaisabele/memory-game-regularShow?style=for-the-badge)
@@ -11,8 +12,17 @@
 
 ##
 
+### 🔧 Tecnologias usadas
+
+* [HTML5](https://www.w3.org/html/) - Linguagem de marcação
+* [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) - Estilizacão
+* [JavaScript]() - Linguagem de programação
+
+##
+
 ### 🛠️ Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Ranking de melhores jogodares
+- [ ] Ajustar cronometro
