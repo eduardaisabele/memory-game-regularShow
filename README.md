@@ -10,6 +10,9 @@
 ![screrenshot](https://user-images.githubusercontent.com/92763302/228806767-c633fa0d-2abd-42aa-a994-2f1d7d7949ef.png)
 > Tela de login do jogo da memoria
 
+![Animação](https://user-images.githubusercontent.com/92763302/229076530-30176171-db73-48e5-805a-604cbf7f0b78.gif)
+> Gif rapido do jogo
+
 ##
 
 ### 🔧 Tecnologias usadas
